@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /demo-blog
 permalink: pretty
 markdown: kramdown
 prose:
