@@ -1,10 +1,10 @@
-baseurl: /demo-blog
+baseurl: /
 permalink: pretty
 markdown: kramdown
 prose:
   rooturl: '_posts'
-  siteurl: 'https://argovaerts.github.io/demo-blog/'
-  relativeLinks: 'https://argovaerts.github.io/demo-blog/links.jsonp'
+  siteurl: 'http://demo.usearnold.com'
+  relativeLinks: 'http://demo.usearnold.com/links.jsonp'
   media: 'media'
   metadata:
     _posts:
