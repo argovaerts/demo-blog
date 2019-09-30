@@ -3,8 +3,8 @@ permalink: pretty
 markdown: kramdown
 prose:
   rooturl: '_posts'
-  siteurl: 'http://demo.usearnold.com'
-  relativeLinks: 'http://demo.usearnold.com/links.jsonp'
+  siteurl: 'https://demo.usearnold.com'
+  relativeLinks: 'https://demo.usearnold.com/links.jsonp'
   media: 'media'
   metadata:
     _posts:
